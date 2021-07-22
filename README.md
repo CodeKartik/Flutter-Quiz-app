@@ -1,6 +1,18 @@
-# Quizzler
+# Flutter Quiz App ❔
 
-A new Flutter project.
+I have made this app while learning flutter. In this application i have learned to manage the stateless and statefull widgets also classes and objects in Dart.
+
+
+#### Feature
+- A simple quiz app
+- app can count score and shows final result after completing test.
+- user can get the preview of answered question is right or wrong at the bottom of the screen
+
+#### Snapshot 
+![quizzler-demo](https://user-images.githubusercontent.com/71598142/126644660-ac9f7ed1-a2bd-41e7-9623-e9f6e22b00f2.gif)
+
+
+gif credit @londonappbrewery
 
 ## Getting Started
 
